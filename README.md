@@ -2,21 +2,8 @@
 [curriculum] files and resources for Web Coding for Interactive Design, Fall 2015
 ## Web Coding for Interactive Design LLSJ 2241 A
 
-###COURSE LOGISTICS:
-	Eugene Lang School - The New School
-	Sept. 2nd - Nov. 18th
-	Wednesdays 6-7:50PM
-	CRN: 7555
-	Credits: 2
-
-###OFFICE HOURS:
-Fridays 5-6PM, by appointment via gcal
-
 ###INSTRUCTOR:
-	Aurelia Moser
-	@auremoser
-	aurelia@newschool.com
-	auremoser@gmail.com <- _emergencies_
+Aurelia Moser
 
 ###DESCRIPTION
 
