@@ -1,6 +1,6 @@
 ## Web Coding for Interactive Design LLSJ 2241 A
 
-![Visualization Examples](https://raw.githubusercontent.com/auremoser/web-coding/master/_img/blocks.jpg)
+![Visualization Examples](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/blocks.jpg)
 
 ###INSTRUCTOR:
 Aurelia Moser
