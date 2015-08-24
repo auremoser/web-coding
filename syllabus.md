@@ -4,7 +4,7 @@ Web Coding for Interactive Design LLSJ 2241 A
 #SYLLABUS
 
 Find this resource here:
-<>
+<http://tinyurl.com/webcoding-syllabus>
 
 ###COURSE LOGISTICS:
 	Eugene Lang School - The New School
@@ -402,5 +402,5 @@ with disabilities, any student with a disability who needs academic accommodatio
 
 ####UNIVERSITY POLICIES
 There are [a few](
-http://www.newschool.edu/leadership/provost/policies/); including the Academic Honesty and Integrity Policy, Intellectual Property Rights Poly and [Plagiarism Policy](http://www.newschool.edu/learning-center/virtual-handout-drawer/). See the following for further detail; basically don't cheat, you won't learn and 
+http://www.newschool.edu/leadership/provost/policies/); including the Academic Honesty and Integrity Policy, Intellectual Property Rights Poly and [Plagiarism Policy](http://www.newschool.edu/learning-center/virtual-handout-drawer/).
 
