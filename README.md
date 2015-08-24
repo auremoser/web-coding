@@ -2,6 +2,8 @@
 [curriculum] files and resources for Web Coding for Interactive Design, Fall 2015
 ## Web Coding for Interactive Design LLSJ 2241 A
 
+![Visualization Examples](https://raw.githubusercontent.com/auremoser/web-coding/master/_img/blocks.jpg)
+
 ###INSTRUCTOR:
 Aurelia Moser
 
