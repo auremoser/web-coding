@@ -251,9 +251,9 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 ###10/7/15
 (COUNTER)MAPS AND CARTOGRAPHICS
 
-![Losing Ground]().
+![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 
-ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
+**Interactive to Inspire**: ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
@@ -281,6 +281,8 @@ If that seems overwhelming, try to follow these tutorials instead:
 
 ###10/14/15
 NETWORK AND GRAPH VISUALIZATIONS
+
+
 
 ####PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
