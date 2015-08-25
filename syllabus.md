@@ -75,7 +75,7 @@ This course is 12-weeks long. Dates are based on the [academic calendar](http://
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
-![Measles]()
+![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
 **Interactive to Inspire**: WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
