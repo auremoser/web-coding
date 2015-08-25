@@ -205,6 +205,10 @@ Link to the datasets if they are available online, if not, explain how you inten
 ###9/30/15
 STATISTICS AND TIME-SERIES INTERACTIVES
 
+![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
+
+**Interactive to Inspire**: Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
+
 ####READINGS:
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
@@ -329,7 +333,7 @@ Here is [an example of an interactive time series visualization](http://auremose
 ###11/11/15
 UNDERSTANDING IMPACT + ADDRESSING BIAS
 
-![IgNobels]()
+![IgNobels](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/viral.jpg)
 
 **Interactive to Inspire**: Popular Science: [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), 8/18/15.
 
@@ -350,6 +354,8 @@ Continue with last week's assignment, work on publishing your project on github,
 
 THE FUTURE OF MEDIA + FINAL PROJECTS
 
+
+
 > I realize the instant communication platforms we enjoy now do have some negatives that are troubling. ~ James Spann
 
 Meet with your project partners to discuss how you plan to wrap-up your projects over the next week.
@@ -357,7 +363,6 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 **Interactive to inspire**: 
 
 NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
-
 
 ####READINGS
 * Carr, D., [_Magazine writing on the web, for film](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
