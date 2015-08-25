@@ -335,6 +335,10 @@ Keep in mind how this changes or updates your style guide from last week; update
 ###11/4/15
 CREATIVE NARRATIVE
 
+![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
+
+**Interactive to Inspire**: Bloomberg, [_"What's really warming the world?_](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/).
+
 ####READINGS
 * Honan, M., [_Inside the buzz-fueled media startups battling for your attention](http://www.wired.com/2014/12/new-media-2/)
 * [Comics: Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/#1)
