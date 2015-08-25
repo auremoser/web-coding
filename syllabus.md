@@ -75,6 +75,10 @@ This course is 12-weeks long. Dates are based on the [academic calendar](http://
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
+![Measles]()
+
+**Interactive to Inspire**: WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
+
 How can you be a journalist with integrity in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
 
 ####READINGS:
