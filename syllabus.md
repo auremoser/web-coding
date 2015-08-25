@@ -329,6 +329,10 @@ Here is [an example of an interactive time series visualization](http://auremose
 ###11/11/15
 UNDERSTANDING IMPACT + ADDRESSING BIAS
 
+![IgNobels]()
+
+**Interactive to Inspire**: Popular Science: [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), 8/18/15.
+
 ####READINGS
 * [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615)
 * [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)
@@ -372,18 +376,26 @@ Continue with working on your final projects.
 	Desciption
 	Demo Link
 	Project Procedure: describe your data processing, visualization selection, and analysis post-visualization
-
-
-
-
----**END OF CLASS**---
-
+	
 ###11/24/15
 Make-up for Yom Kippur Course
 
-Tues., 6-7:50PM
+Tues., 11/24, 6-7:50PM
 
-This will be an optional follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. 
+This will be a follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. Sorry about that, the New School mandates that the make-up is on this day.
+
+#####FINAL PROJECTS
+**DUE**: 11/25/15 9AM, in my inbox. 
+
+Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
+
+This is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
+
+-----------------
+##END OF CLASS
+
+----------------
+
 
 
 ###CODE (OF CONDUCT)
