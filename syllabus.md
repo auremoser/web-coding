@@ -1,6 +1,8 @@
 Web Coding for Interactive Design LLSJ 2241 A
 ========
 
+![gallery](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/blocks.jpg)
+
 #SYLLABUS
 
 Find this resource here:
@@ -75,11 +77,11 @@ This course is 12-weeks long. Dates are based on the [academic calendar](http://
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
+How can you be a journalist with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
+
 ![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
 **Interactive to Inspire**: WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
-
-How can you be a journalist with integrity in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
 
 ####READINGS:
 * Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
@@ -135,7 +137,7 @@ She's worked on interactive projects like:
 * [_Worker's comp_](http://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
 * [_The power of loops_](https://www.propublica.org/nerds/item/on-repeat-how-to-use-loops-to-explain-anything)
 
-![Treatment]()
+![Treatment](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/treatment.jpg)
 
 ProPublica, [_Treatment tracker_](https://projects.propublica.org/treatment/).
 
@@ -150,7 +152,7 @@ She's worked on interactive projects like:
 * [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
 * [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 
-![Congress]()
+![Congress](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/congress.jpg)
 
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
@@ -248,6 +250,10 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 
 ###10/7/15
 (COUNTER)MAPS AND CARTOGRAPHICS
+
+![Losing Ground]().
+
+ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
