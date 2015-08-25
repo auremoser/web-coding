@@ -173,6 +173,10 @@ There will otherwise be no class on this date, but I would like you to investiga
 
 DATA-DRIVEN JOURNALISM
 
+![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
+
+**Interactive to Inspire**: NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
+
 ####READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
 * Emery, A., [_The DataViz design process_](http://annkemery.com/dataviz-design-process/).
