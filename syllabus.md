@@ -17,14 +17,13 @@ Find this resource here:
 
 Here is the [course listing](http://www.lang.edu/courses/coursedesc.cfm?TERM=201510&ID=7555).
 
-###OFFICE HOURS: 
-Fridays 5-6PM, by appointment via gcal
-
 ###INSTRUCTOR:
 	Aurelia Moser
 	@auremoser
 	aurelia@newschool.com
-	auremoser@gmail.com <- _emergencies_
+	
+###OFFICE HOURS: 
+Fridays 5-6PM, by appointment via gcal
 
 ###DESCRIPTION
 
@@ -33,25 +32,16 @@ Interactives and news apps are changing the way we process media, and the expect
 ###OBJECTIVE + LEARNING OUTCOMES
 Being successful in programming or journalism involves producing under deadline. Employers, editors and co-workers will require that you work efficiently. This course is modeled on your future success, and so deadlines will be applied to keep time with a professional pace. The final project for the course, and primary graded assignment, will depend on an agglutinative series of tasks designed to help you learn and think critically throughout the semester. 
 
-Here's some basic things I hope to teach:
+####LEARNING OUTCOMES:
 
-* how to assess, manipulate, and analyze  data
-* how to bulletproof your data
-* the merits of certain visualization types
-* the mechanics of collaboration and github
-* the basics of building interactive graphics: html/css/js
-* the value of publishing and self-publishing 
+1. how to assess, manipulate, and analyze  data
+2. how to bulletproof your data
+3. the merits of certain visualization types
+4. the mechanics of collaboration and github
+5. the basics of building interactive graphics: html/css/js
+6. the value of publishing and self-publishing 
 
-###MATERIALS
-Coding is an art; you will have a series of supplies for this course that will all be free unless otherwise noted, but will require some non-trivial investment on your part to setup. I'm available to help if you need it.
-
-* Hosting Service - [Github](https://github.com/) Account, [signup here](https://help.github.com/articles/signing-up-for-a-new-github-account/) 
-* Text Editor - [Sublime Text](http://www.sublimetext.com/)
-* A Markdown Editor - [Mou](http://25.io/mou/)
-
-###ASSIGNMENTS
-All assignments will be submitted via gist on your github account. Most will be a written response to a coding exercise, or some coding. They are due on the following course date unless otherwise indicated.
-
+####GRADE CALCULATION:
 Here is a basic breakdown of graded tasks along that trajectory:
 
 * 20% Attendance/Participation
@@ -59,21 +49,65 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * 20% Project Proposal
 * 40% Final Project, completed on conclusion of the course, submitted after Thanksgiving
 
+TOTAL: 100%
+
 It is understood that coding is tough and you may be new to this, you will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peer reviewers, and your ability to justify your decisions thoughtfully; work hard and you'll do well.
 
-**Partner Policy**
+###MATERIALS
+Coding is an art; you will have a series of art supplies for this course that will all be free unless otherwise noted, but will require some non-trivial investment on your part to set-up. I'm available to help if you need it.
 
+**SET-UP ACCOUNT**
+
+* Hosting Service - [Github](https://github.com/) Account, [signup here](https://help.github.com/articles/signing-up-for-a-new-github-account/) 
+
+**DOWNLOAD AND INSTALL**
+
+* Text Editor - [Sublime Text](http://www.sublimetext.com/)
+* A Markdown Editor - [Mou](http://25.io/mou/)
+
+
+###COURSE POLICIES
+
+**PARTNER POLICY**
 You will find a parter, or a triplet in this course and have some time afforded to workshop your ideas, your narratives and your code with them during peer review. They will give me feedback that contributes to your grade; so pair well with your peers.
 
-**Readings**
+**ATTENDANCE/PARTICIPATION**
+Attendance accounts for 20% of your final grade. 
 
-Readings are assigned to correspond with that week's assignment and class lesson. I'll be lecturing outside the readings with some references to them, and your assignments will allude to them too. Feel free to read ahead to make certain weeks easier. **There is no textbook for this course** as most of the resources can be found for free online.
+**ASSIGNMENTS**
+Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them to a 20% contribution to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
+
+* All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
+* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/8, unless otherwise indicated
+
+| Week  |  Date  | Assignment |
+| ----- | ------- | ----------: |
+|  2   |  9/9  |   Annotated Interactive: find one and critique  |
+|  3   |  9/16 |   Practice: bl.ocks account and Github gists  |
+|  4   |  9/23  |  Comparing Interactives: critique articles on the same topic  |
+|  5   |  9/30  |    |
+|  6   |  10/7  |   $10  |
+|  7   |  10/14  |   $10  |
+|  8   |  10/21  |   $10  |
+|  9   |  10/28  |   $10  |
+| 10   |  11/4  |   $10  |
+| 11   |  11/18  |   $10  |
+| 12   |  11/24  |   $10  |
+
+
+
+**READINGS**
+Readings are assigned to correspond with that week's assignment and class lesson. I'll be lecturing outside the readings with some references to them, and your assignments will allude to them too. Feel free to read ahead to make certain weeks easier. 
+
+**There is no textbook for this course** as most of the resources can be found for free online.
+
+You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blob/master/bibliography.md) in the repository for this course.
 
 
 ##CALENDAR
 This course is 12-weeks long. Dates are based on the [academic calendar](http://www.newschool.edu/registrar/academic-calendar/) for Eugene Lang.
 
-###9/2/15
+##9/2/15
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
@@ -88,6 +122,7 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 * Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
 * Rosen, J., [_When to quit your journalism job_](http://pressthink.org/2014/12/when-to-quit-your-journalism-job/).
 * [_The hypocrisy of the Internet journalist_](https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e).
+* Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
 ####PRACTICE:
 * Setup your Github accounts
@@ -98,8 +133,7 @@ Find an interactive that you appreciate, prefereably (but not obligatorily) a jo
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above.
 
-
-###9/9/15
+##9/9/15
 MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 
 ####READING
@@ -122,7 +156,7 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
 
-###9/16/15
+##9/16/15
 NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
 
 **Guest Lecturers** 
@@ -156,7 +190,6 @@ She's worked on interactive projects like:
 
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
-
 ####READINGS
 * Koc, E., [_Interactive storytelling at the New York Times_](http://futurenytimes.org/reviews/interactive-storytelling/).
 * Few, S., [_Data art vs. data visualization_](http://www.perceptualedge.com/blog/?p=1245).
@@ -168,19 +201,19 @@ Continue to practice your fluency in Github commands with this online interactiv
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
 * [Visual Guide to Git Branching](http://pcottle.github.io/learnGitBranching/).
 
-
 ####ASSIGNMENT
 Think about who handled it (that is, the topic) better:
 
 * Motherboard: <https://www.muckrock.com/drone-census/>
 * Muckrock: <https://www.muckrock.com/drone-census/>
+* Pitch Interactive: <ttp://drones.pitchinteractive.com/>
 * A Quiet Disposition: <http://aquietdisposition.com/>
 
 Why? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
 
 Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to test, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace.
 
-###9/23/15 
+##9/23/15 
 ####NO CLASS: Yom Kippur
 
 See "Make-up" on 11/24/15
@@ -207,6 +240,11 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Journalism.org, [_Datasets_](http://www.journalism.org/datasets/pages/2/).
 * Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
 
+####PRACTICE
+In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/). 
+
+Including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl.
+
 ####ASSIGNMENT
 Do some research, find a few stories that inspire you, or [some that don't](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?CMP=twt_gu). Think about what data they use to prove their assertions, or what datasets might help to bolster their arguments. 
 
@@ -222,7 +260,7 @@ Try to find one or two datasets that suit a narrative or argument you'd like to 
 
 Link to the datasets if they are available online, if not, explain how you intend to get those data over the course of the next few weeks.
 
-###9/30/15
+##9/30/15
 STATISTICS AND TIME-SERIES INTERACTIVES
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
@@ -247,7 +285,6 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 3. Write a pitch (a few ¶s) explaining your story and linking to the data. 
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 
-
 ###10/7/15
 (COUNTER)MAPS AND CARTOGRAPHICS
 
@@ -257,6 +294,9 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
+* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
+* Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).
+* [Radical Cartography](http://radicalcartography.net/).
 
 ####PRACTICE
 [CartoDB](cartodb.com) is an online mapping platform and series of libraries/APIS that allows you to map geospatial data easiy in Javascript. 
@@ -282,8 +322,6 @@ If that seems overwhelming, try to follow these tutorials instead:
 ###10/14/15
 NETWORK AND GRAPH VISUALIZATIONS
 
-
-
 ####PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
 Peruse the examples available using these libraries online, or try [Gephi](http://gephi.github.io/), a free desktop tool for visualization.
@@ -304,15 +342,18 @@ COLOR THEORY: ART, DESIGN, + PERCEPTION
 ####READINGS:
 * [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
+* Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 
 ####ASSIGNMENT
-Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist.
+Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.
 
 It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/projects/Sunlight-StyleGuide-DataViz.pdf) but it should have a few main sections:
 
 * Colors (hex values chosen)
 * Fonts
-* Template (general layout, with sketches)
+* Template (general layout, with sketches-hand sketched and photographed/embedded in a gist or uploaded somewhere.
+* Description of the dataset(s)
+* Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
 
 ###10/28/15
@@ -340,13 +381,14 @@ CREATIVE NARRATIVE
 **Interactive to Inspire**: Bloomberg, [_"What's really warming the world?_](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/).
 
 ####READINGS
-* Honan, M., [_Inside the buzz-fueled media startups battling for your attention](http://www.wired.com/2014/12/new-media-2/)
-* [Comics: Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/#1)
+* Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
+* Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
+* Keller, M., [Comics: Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/#1).
 	* [Pulp: An AJAM Project](https://github.com/ajam/pulp)
 * [Parable of the Polygons](http://ncase.me/polygons/)
 
 ####PRACTICE
-Think about where you would like to publish your project and in what format. Will it be a stand-alone site with some text, a text-dense narrative with embedded graphs, a larger scroll-pages multimedia piece with images and video embeds to compliment. 
+Think about where you would like to publish your project and in what format. Will it be a stand-alone site with some text, a text-dense narrative with embedded graphs, a larger scroll-pages multimedia piece with images and video embeds to compliment? 
 
 ####ASSIGNMENT
 Think about the interactives we've seen this semester and plan out your template layout.
@@ -357,8 +399,7 @@ Here are some resources to help you get it on the web.
 * [Github pages templates for sites](https://pages.github.com/)
 * [Creating project pages on Github pages](https://help.github.com/articles/creating-project-pages-manually/)
 
-Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made.
-
+Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
 ###11/11/15
 UNDERSTANDING IMPACT + ADDRESSING BIAS
