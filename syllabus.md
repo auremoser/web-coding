@@ -221,13 +221,11 @@ Why? How? What aspects are more or less compelling, what would you say is a bett
 Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to test, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace.
 
 ##9/23/15 
-####NO CLASS: Yom Kippur
-
-See "Make-up" on 11/24/15
-
-There will otherwise be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week. The makeup course will be the final project presentation day, a chance to workshop your projects as well, held on 11/24/15.
 
 ####DATA-DRIVEN JOURNALISM
+####NO CLASS: Yom Kippur
+
+There will  be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week, and do the readings and exercise below. The makeup course will be the final project presentation day, a chance to workshop your projects as well, held on 11/24/15.
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
@@ -345,6 +343,11 @@ Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethi
 
 ##10/14/15
 ####NETWORK AND GRAPH VISUALIZATIONS
+
+![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
+
+**Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
+You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahashi/PUBLICATIONS/YZR_INFOVIS2012.pdf).
 
 ####PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
