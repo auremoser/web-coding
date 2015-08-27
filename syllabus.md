@@ -133,7 +133,7 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 ####ASSIGNMENT
 Find an interactive that you appreciate, prefereably (but not obligatorily) a journalism piece. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
-It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above.
+It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
 
 ##9/9/15
 ####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
@@ -369,6 +369,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
+>"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
@@ -380,6 +381,9 @@ Try to build a prototype with one of these libraries/tools to support your assig
 * [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
 * Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
+
+**OPTIONAL READINGS**:
+* Kowitz, B., [_Why good storytelling helps you design great projects_]https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
 
 ####ASSIGNMENT
 Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.
@@ -445,7 +449,7 @@ Here is [an example of an interactive time series visualization](http://auremose
 
 ![IgNobels](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/viral.jpg)
 
-**Interactive to Inspire**: Popular Science: [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), 8/18/15.
+**Interactive to Inspire**: Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
 
 ####READINGS
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
@@ -464,7 +468,7 @@ Continue with last week's assignment, work on publishing your project on github,
 ##11/18/15
 ####THE FUTURE OF MEDIA + FINAL PROJECTS
 
-> "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ James Spann
+> "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ J. Spann
 
 Meet with your project partners to discuss how you plan to wrap-up your projects over the next week.
 
@@ -483,7 +487,6 @@ NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commenc
 * Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
 * Anderson, C., [_How to give a killer presentation_](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/1).
 
-
 ####ASSIGNMENT
 Continue with working on your final projects. 
 * publishing your project and code on github
@@ -498,6 +501,8 @@ Continue with working on your final projects.
 ##11/24/15
 
 ####PRESENTATIONS AND PROJECT CLINIC
+
+>"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
 Tues., 11/24, 6-7:50PM, Make-up for Yom Kippur Course
 
