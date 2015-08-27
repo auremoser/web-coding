@@ -78,22 +78,22 @@ Attendance accounts for 20% of your final grade.
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them to a 20% contribution to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
-* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/8, unless otherwise indicated
+* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated
 
-| Week  |  Date  | Assignment |
-| ----- | ------- | ----------: |
-|  2   |  9/9  |   Annotated Interactive: find one and critique  |
-|  3   |  9/16 |   Practice: bl.ocks account and Github gists  |
-|  4   |  9/23  |  Comparing Interactives: critique articles on the same topic  |
-|  5   |  9/30  |    |
-|  6   |  10/7  |   $10  |
-|  7   |  10/14  |   $10  |
-|  8   |  10/21  |   $10  |
-|  9   |  10/28  |   $10  |
-| 10   |  11/4  |   $10  |
-| 11   |  11/18  |   $10  |
-| 12   |  11/24  |   $10  |
-
+| Week  |  Date  | Assignment  | Practice |
+| :---- | ------ | ----------- | -------- |
+|  2   |  09/09  | Critique an Interactive  | X | 
+|  3   |  09/16  | Bl.ocks account and Github gists  | X|
+|  4   |  09/23  | Comparing 4 Interactives  | X |
+|  5   |  09/30  | **Prototype 1**: Time-Series/Stats  | X |
+|  6   |  10/07  | **Prototype 2**: Mapping  | X |
+|  7   |  10/14  | **Prototype 3**: Graphs  |   |
+|  8   |  10/21  | Style Guide for Final Project  |  |
+|  9   |  10/28  | **Proposal** for Final Project  | X |
+| 10   |  11/04  | Refine Proposal for Final Project | X |
+| 11   |  11/11  | Publish your Prototypes  |  |
+| 12   |  11/18  | Peer Review: Groom Projects with feedback |  |
+| 13   |  11/24  | **Final Presentations/Final Projects Due**  |  |
 
 
 **READINGS**
@@ -103,6 +103,8 @@ Readings are assigned to correspond with that week's assignment and class lesson
 
 You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blob/master/bibliography.md) in the repository for this course.
 
+**LEARNING CENTER**
+The University Learning Center has [cool workshops](https://drive.google.com/file/d/0B3ZdoyWl7j9rN1ZsWFEwbUc2LVE/view) that might be of use to you. There's one on November 5th, for Oral Presentations that you might consider attending to prep your project presentation at the end of the semester (November 24th for us).
 
 ##CALENDAR
 This course is 12-weeks long. Dates are based on the [academic calendar](http://www.newschool.edu/registrar/academic-calendar/) for Eugene Lang.
@@ -140,6 +142,13 @@ MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 * Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse)
 * Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0)
 
+####PRACTICE
+Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay!
+
+This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
+
+* Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
+
 ####ASSIGNMENT
 Take a look at the following platforms for online journalism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing if you find none of these satisfactory, and explain why it seems superior.
 
@@ -148,13 +157,6 @@ Take a look at the following platforms for online journalism, consider the merit
 * [Bellingcat](https://www.bellingcat.com/)
 
 Consider the readings an try include a sentence or two about how they are relevant to this exercise.
-
-####PRACTICE
-Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay!
-
-This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
-
-* Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
 
 ##9/16/15
 NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
@@ -282,10 +284,11 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 ####ASSIGNMENT
 1. Find some time-series or statistical data. 
 2. Think about the narrative that you might build around it. 
-3. Write a pitch (a few ¶s) explaining your story and linking to the data. 
+3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
+5. Use your practice exercise to defend your pitch with a prototype.
 
-###10/7/15
+##10/7/15
 (COUNTER)MAPS AND CARTOGRAPHICS
 
 ![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
@@ -316,10 +319,14 @@ If that seems overwhelming, try to follow these tutorials instead:
 ####ASSIGNMENT
 1. Find some geospatial data. 
 2. Think about the narrative that you might build around it.
-3. Write a pitch (a few ¶s) explaining your story and linking to the data. 
+3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
+5. Use your practice exercise to defend your pitch with a prototype.
 
-###10/14/15
+Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write you r pitch
+
+
+##10/14/15
 NETWORK AND GRAPH VISUALIZATIONS
 
 ####PRACTICE
@@ -330,13 +337,13 @@ Here's [a sample visualization that uses Gexf to visualize graffiti artists](htt
 
 Try to build a prototype with one of these libraries/tools to support your assignment pitch.
 
-
 ####ASSIGNMENT
 1. Find some network/graph data or a collection of datasets that you think might compliment eachother, or might reveal something interesting in ensemble. 
-2. Write a pitch (a few ¶s) explaining your story and linking to the data. 
+2. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 3. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
+4. Use your practice exercise to defend your pitch with a prototype.
 
-###10/21/15
+##10/21/15
 COLOR THEORY: ART, DESIGN, + PERCEPTION
 
 ####READINGS:
@@ -356,24 +363,24 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 * Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
 
-###10/28/15
+##10/28/15
 CHOOSING AN INTERACTIVE
 
 ####READINGS
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
 * Salkever, A., [_How to Choose the Right Visualization_](http://blog.import.io/post/how-to-choose-the-right-visualization-for-your-data).
 
-####ASSIGNMENT
+####ASSIGNMENT - PROPOSAL
 Consider the data visualization types in [this catalogue](http://www.datavizcatalogue.com/), and the [tools listed here](http://selection.datavisualization.ch/). 
 
 Determine which type of visualizations you might make with your data, list them, and then select one to test and pursue. 
 
 Diagram (aka, discuss in one ¶) what type of visualization you choose for your dataset and what tools you will use to achieve this (include the languages they are written in or the languages you might need to code in). 
 
-Keep in mind how this changes or updates your style guide from last week; update that assignment where necessary.
+Keep in mind how this changes or updates your style guide from last week; update that assignment where necessary; and link to the style guide at the end of your proposal.
 
 
-###11/4/15
+##11/4/15
 CREATIVE NARRATIVE
 
 ![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
@@ -421,11 +428,9 @@ UNDERSTANDING IMPACT + ADDRESSING BIAS
 ####ASSIGNMENT
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
-###11/18/15
+##11/18/15
 
 THE FUTURE OF MEDIA + FINAL PROJECTS
-
-
 
 > I realize the instant communication platforms we enjoy now do have some negatives that are troubling. ~ James Spann
 
@@ -453,14 +458,14 @@ Continue with working on your final projects.
 	Demo Link
 	Project Procedure: describe your data processing, visualization selection, and analysis post-visualization
 	
-###11/24/15
+##11/24/15
 Make-up for Yom Kippur Course
 
 Tues., 11/24, 6-7:50PM
 
 This will be a follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. Sorry about that, the New School mandates that the make-up is on this day.
 
-#####FINAL PROJECTS
+####FINAL PROJECTS
 **DUE**: 11/25/15 9AM, in my inbox. 
 
 Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
@@ -477,11 +482,13 @@ This is a big deal! The final project is a substantial portion of your grade, an
 ###CODE (OF CONDUCT)
 It's not that hard, code or respect. You will be expected to produce both in this class. We will set the tone for it here, so you can graple with its absence from an informed position in the workplace. 
 
-Part of that code of conduct is a partnership we are building in mutual respect. I take it personally when you miss my classes and my assignments; being ontime is a way to show myself and the other students that you have respect for us. If you fail to do that, you're hindering your own education, but more importantly you're hindering your reputation as a person with integrity. Here are a few general things:
+Part of that code of conduct is a partnership we are building in mutual respect. I take it personally when you miss my classes and my assignments; being ontime is a way to show myself and the other students that you have respect for us. If you fail to do that, you're hindering your own education, but more importantly you're hindering your reputation as a person with integrity. 
+
+Here are a few general things:
 
 * Late assignments will not be accepted 
 * Attendance is mandatory barring an emergency which you can work out with the instructor over email. 
-* Regardless of circumstances, you're expected to turn in your assignment on the day that it's due, and otherwise keep up with work
+* Regardless of circumstances, you're expected to turn in your assignment on the day that it's due, and otherwise keep up with work.
 
 #### DISABILITY SERVIES
 In keeping with [the university’s policy]

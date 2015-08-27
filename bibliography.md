@@ -28,6 +28,8 @@ Here is a summary list of readings that may or may not be listed directly in the
 
 
 ### STATISTICS + TIME SERIES
+* Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
+* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 * IRE, [Excel tipsheet](http://ire.org/media/uploads/car2013_tipsheets/excel_1_tipsheet.pdf).
 * Journalism Tools, [List of data analysis tools](https://www.pinterest.com/journalismtools/data-analysis-scraping-resources/).
 * Kreibel, A., [_Stacked area vs. line chart_](http://vizwiz.blogspot.com/2012/10/stacked-area-chart-vs-line-chart-great.html).
@@ -38,7 +40,10 @@ Here is a summary list of readings that may or may not be listed directly in the
 * Bahgat, K., [_Visualizing geodata: Python GIS resources_](https://pythongisresources.wordpress.com/visualizing-geodata/).
 * Crampton, J., [_An introduction to critical cartography_](http://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography).
 * Eschbacher, A., [_Map Academy_](academy.cartodb.com).
-* Lloyd, D. et al., [_Meditating geovisualization to potential users](https://www.e-education.psu.edu/geog583/sites/www.e-education.psu.edu.geog583/files/Lloyd_Prototyping_GeoViz.pdf).
+* Foster, M., [_The lost art of critical map reading_](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/).
+* Lloyd, D. et al., [_Meditating geovisualization to potential users_](https://www.e-education.psu.edu/geog583/sites/www.e-education.psu.edu.geog583/files/Lloyd_Prototyping_GeoViz.pdf).
+* Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).
+
 
 ### GRAPHS
 
