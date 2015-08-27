@@ -449,11 +449,16 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
 
 ####READINGS
-* Carr, D., [_Magazine writing on the web, for film](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
+* Carr, D., [_Magazine writing on the web, for film_](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
 * Tow Center, [_Anatomy of a Robot Journalist_](http://towcenter.org/the-anatomy-of-a-robot-journalist/).
 * Spann, J., [_The age of disinformation_](https://medium.com/back-of-the-napkin/the-age-of-disinformation-98d55837d7d9).
 * [_Mantra: "We'll always be a work in progress"_](http://www.vox.com/2014/3/30/5555690/welcome-to-vox).
 * Haile, T., [_What you think you know about the web is wrong_](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/).
+
+**OPTIONAL READINGS**
+* Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
+* Anderson, C., [_How to give a killer presentation_](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/1).
+
 
 ####ASSIGNMENT
 Continue with working on your final projects. 
@@ -468,6 +473,8 @@ Continue with working on your final projects.
 	
 ##11/24/15
 Make-up for Yom Kippur Course
+
+PRESENTATIONS AND PROJECT CLINIC
 
 Tues., 11/24, 6-7:50PM
 
