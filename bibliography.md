@@ -12,10 +12,10 @@ Here is a summary list of readings that may or may not be listed directly in the
 * Mulin, [_Guide to Internet Search_](http://www.mulinblog.com/guide-to-internet-search/).
 
 ## DESIGN
+* Brewer, C. et al, Color palettes: [Color Brewer](http://colorbrewer2.org/), [Color Hexa](http://www.colorhexa.com/), [Geocolor](http://geocolor.io/).
 * Jones, B., [_Clarity or aesthetics: A tale of 4 quadrants_](http://dataremixed.com/2012/05/clarity-or-aesthetics-part-2-a-tale-of-four-quadrants/).
 * Macwright, T., [_Perception Concerns_](https://github.com/tmcw/perception).
 * Meeks, E., [_Gestalt Theory_](http://emeeks.github.io/gestaltdataviz/section1.html).
-* Color palettes: [Color Brewer](http://colorbrewer2.org/), [Color Hexa](http://www.colorhexa.com/), [Geocolor](http://geocolor.io/)
 
 ## VISUALIZATION
 * Cohen, S., [_Using visualizations to tell stories_](http://datajournalismhandbook.org/1.0/en/delivering_data_4.html).
@@ -36,7 +36,6 @@ Here is a summary list of readings that may or may not be listed directly in the
 * Suda, B., [_Different Charts tell different tales_](http://datajournalismhandbook.org/1.0/en/delivering_data_6.html).
 
 ### MAPPING
-
 * Bahgat, K., [_Visualizing geodata: Python GIS resources_](https://pythongisresources.wordpress.com/visualizing-geodata/).
 * Crampton, J., [_An introduction to critical cartography_](http://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography).
 * Eschbacher, A., [_Map Academy_](academy.cartodb.com).
@@ -46,7 +45,6 @@ Here is a summary list of readings that may or may not be listed directly in the
 
 
 ### GRAPHS
-
 * Krempel, L., [_Network Visualization_](http://sisob.lcc.uma.es/repositorio/private_documents/papers/Collide/Krempel_NetworkVisualization.pdf).
 * Tamassia, R., [Handbook of graph drawing and visualization](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
@@ -75,7 +73,6 @@ Should you like to do some additional exercises to boost your skills, here are s
 * [Udacity](https://www.udacity.com/).
 	* [Data visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507).
 * [edX](https://www.edx.org/).
-
 
 
 ## MISC.

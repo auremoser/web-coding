@@ -367,10 +367,11 @@ Try to build a prototype with one of these libraries/tools to support your assig
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
 
-![Whale Hunt]()
+![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
-**Interactive to inspire**: J. Harris, [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
-J. Harris, [_I love your work_]().
+**Interactives to inspire**: 
+* J. Harris, [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
+* J. Harris, [_I love your work_](http://iloveyourwork.net/).
 
 ####READINGS:
 * [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
@@ -506,10 +507,6 @@ Please send the link to your project repository and any supportive materials to 
 
 This is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
 
------------------
-##END OF CLASS CALENDAR
-
-----------------
 
 #SERVICES + RESOURCES
 
@@ -524,12 +521,12 @@ Here are a few general things:
 * Attendance is mandatory barring an emergency which you can work out with the instructor over email. 
 * Regardless of circumstances, you're expected to turn in your assignment on the day that it's due, and otherwise keep up with work.
 
-#### DISABILITY SERVIES
+### DISABILITY SERVIES
 In keeping with [the university’s policy]
 (http://www.newschool.edu/student-disability-services/) of providing equal access for students
 with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course. 
 
-####UNIVERSITY POLICIES
+###UNIVERSITY POLICIES
 There are [a few](
 http://www.newschool.edu/leadership/provost/policies/); including the Academic Honesty and Integrity Policy, Intellectual Property Rights Poly and [Plagiarism Policy](http://www.newschool.edu/learning-center/virtual-handout-drawer/).
 
