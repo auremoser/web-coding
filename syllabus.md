@@ -80,19 +80,19 @@ Each week you will have readings assigned, accompanied by often (but not always)
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
 * Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated
 
-| Week  |  Date  | Assignment  | Practice |
+| WEEK  |  DATE  | ASSIGNMENT  | PRACTICE |
 | :---- | ------ | ----------- | -------- |
-|  2   |  09/09  | Critique an Interactive  | X | 
+|  2   |  09/09  | Critique an interactive  | X | 
 |  3   |  09/16  | Bl.ocks account and Github gists  | X|
-|  4   |  09/23  | Comparing 4 Interactives  | X |
+|  4   |  09/23  | Comparing interactives  | X |
 |  5   |  09/30  | **Prototype 1**: Time-Series/Stats  | X |
 |  6   |  10/07  | **Prototype 2**: Mapping  | X |
 |  7   |  10/14  | **Prototype 3**: Graphs  |   |
-|  8   |  10/21  | Style Guide for Final Project  |  |
+|  8   |  10/21  | Style guide for Final Project  |  |
 |  9   |  10/28  | **Proposal** for Final Project  | X |
-| 10   |  11/04  | Refine Proposal for Final Project | X |
-| 11   |  11/11  | Publish your Prototypes  |  |
-| 12   |  11/18  | Peer Review: Groom Projects with feedback |  |
+| 10   |  11/04  | Refine proposal for Final Project | X |
+| 11   |  11/11  | Publish your prototypes  |  |
+| 12   |  11/18  | Peer review: groom projects with feedback |  |
 | 13   |  11/24  | **Final Presentations/Final Projects Due**  |  |
 
 
@@ -106,7 +106,7 @@ You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blo
 **LEARNING CENTER**
 The University Learning Center has [cool workshops](https://drive.google.com/file/d/0B3ZdoyWl7j9rN1ZsWFEwbUc2LVE/view) that might be of use to you. There's one on November 5th, for Oral Presentations that you might consider attending to prep your project presentation at the end of the semester (November 24th for us).
 
-##CALENDAR
+#CLASS CALENDAR
 This course is 12-weeks long. Dates are based on the [academic calendar](http://www.newschool.edu/registrar/academic-calendar/) for Eugene Lang.
 
 ##9/2/15
@@ -136,11 +136,16 @@ Find an interactive that you appreciate, prefereably (but not obligatorily) a jo
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above.
 
 ##9/9/15
-MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
+####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
+
+>"I just wanted to share my view on the distinction I personally make between the two main types of visualisation function: exploratory and explanatory" ~ A. Kirk
 
 ####READING
-* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse)
-* Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0)
+* Aaker, J., [_Persuasion and the Power of the Story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
+* Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
+* Kirk, A., [_Storytelling and Success Stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
+* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
+
 
 ####PRACTICE
 Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay!
@@ -159,7 +164,7 @@ Take a look at the following platforms for online journalism, consider the merit
 Consider the readings an try include a sentence or two about how they are relevant to this exercise.
 
 ##9/16/15
-NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
+####NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
 
 **Guest Lecturers** 
 
@@ -220,9 +225,11 @@ Consider the pieces and work shown by the guest lecturer, highlight some aspect 
 
 See "Make-up" on 11/24/15
 
-There will otherwise be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week. The makeup course will be an optional extended office hour to workshop your ideas on 11/24.
+There will otherwise be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week. The makeup course will be the final project presentation day, a chance to workshop your projects as well, held on 11/24/15.
 
-DATA-DRIVEN JOURNALISM
+####DATA-DRIVEN JOURNALISM
+
+>"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
@@ -241,6 +248,9 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Journalism Tools, [_Data Analysis, Scraping + Resources_](https://www.pinterest.com/journalismtools/data-analysis-scraping-resources/)
 * Journalism.org, [_Datasets_](http://www.journalism.org/datasets/pages/2/).
 * Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
+
+**OPTIONAL READINGS**
+* Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
 
 ####PRACTICE
 In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/). 
@@ -263,13 +273,16 @@ Try to find one or two datasets that suit a narrative or argument you'd like to 
 Link to the datasets if they are available online, if not, explain how you intend to get those data over the course of the next few weeks.
 
 ##9/30/15
-STATISTICS AND TIME-SERIES INTERACTIVES
+####STATISTICS AND TIME-SERIES INTERACTIVES
+
+> "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
 **Interactive to Inspire**: Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 
 ####READINGS:
+* Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
 
@@ -289,7 +302,7 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 5. Use your practice exercise to defend your pitch with a prototype.
 
 ##10/7/15
-(COUNTER)MAPS AND CARTOGRAPHICS
+####(COUNTER)MAPS AND CARTOGRAPHICS
 
 ![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 
@@ -331,7 +344,7 @@ Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethi
 
 
 ##10/14/15
-NETWORK AND GRAPH VISUALIZATIONS
+####NETWORK AND GRAPH VISUALIZATIONS
 
 ####PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
@@ -352,7 +365,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 4. Use your practice exercise to defend your pitch with a prototype.
 
 ##10/21/15
-COLOR THEORY: ART, DESIGN, + PERCEPTION
+####COLOR THEORY: ART, DESIGN, + PERCEPTION
 
 ####READINGS:
 * [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
@@ -372,7 +385,7 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 
 
 ##10/28/15
-CHOOSING AN INTERACTIVE
+####CHOOSING AN INTERACTIVE
 
 ####READINGS
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
@@ -389,7 +402,7 @@ Keep in mind how this changes or updates your style guide from last week; update
 
 
 ##11/4/15
-CREATIVE NARRATIVE
+####CREATIVE NARRATIVE
 
 ![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
 
@@ -417,30 +430,32 @@ Here are some resources to help you get it on the web.
 Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
 ###11/11/15
-UNDERSTANDING IMPACT + ADDRESSING BIAS
+####UNDERSTANDING IMPACT + ADDRESSING BIAS
+
+>"I realize there’s a whole lot of inspiration out there, and some damn fine examples of great work, but I still find it hard to get a sense of direction...We need to know what makes a data story “work”. And what does a data story that “works” even mean?" ~ N. Diakopoulos
 
 ![IgNobels](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/viral.jpg)
 
 **Interactive to Inspire**: Popular Science: [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), 8/18/15.
 
 ####READINGS
-* [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615)
-* [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)
-* [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual)
+* Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
+* Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)
+* Schepers, A., [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual).
+* Reynolds, G. [_The secret of storytelling is in the editing_](http://www.presentationzen.com/presentationzen/2013/01/the-secret-to-success-is-in-the-editing.html).
 
 **OPTIONAL READINGS**
-
-* Hess, A., [_The Bro Whisperer of Bustle_](http://www.slate.com/articles/double_x/doublex/2014/08/bustle_one_year_later_bryan_goldberg_s_website_for_women_is_hugely_successful.single.html)
-* Jefferson, C., [_The Racism Beat: What it's like to write about hate over and over again_](https://medium.com/matter/the-racism-beat-6ff47f76cbb6)
+* Diakopoulos, N., [_Storytelling with data: what are the impacts on audience_](http://www.nickdiakopoulos.com/2013/04/12/storytelling-with-data-what-are-the-impacts-on-the-audience/).
+* Hess, A., [_The Bro Whisperer of Bustle_](http://www.slate.com/articles/double_x/doublex/2014/08/bustle_one_year_later_bryan_goldberg_s_website_for_women_is_hugely_successful.single.html).
+* Jefferson, C., [_The Racism Beat: What it's like to write about hate over and over again_](https://medium.com/matter/the-racism-beat-6ff47f76cbb6).
 
 ####ASSIGNMENT
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
 ##11/18/15
+####THE FUTURE OF MEDIA + FINAL PROJECTS
 
-THE FUTURE OF MEDIA + FINAL PROJECTS
-
-> I realize the instant communication platforms we enjoy now do have some negatives that are troubling. ~ James Spann
+> "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ James Spann
 
 Meet with your project partners to discuss how you plan to wrap-up your projects over the next week.
 
@@ -472,11 +487,10 @@ Continue with working on your final projects.
 	Project Procedure: describe your data processing, visualization selection, and analysis post-visualization
 	
 ##11/24/15
-Make-up for Yom Kippur Course
 
-PRESENTATIONS AND PROJECT CLINIC
+####PRESENTATIONS AND PROJECT CLINIC
 
-Tues., 11/24, 6-7:50PM
+Tues., 11/24, 6-7:50PM, Make-up for Yom Kippur Course
 
 This will be a follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. Sorry about that, the New School mandates that the make-up is on this day.
 
@@ -488,11 +502,11 @@ Please send the link to your project repository and any supportive materials to 
 This is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
 
 -----------------
-##END OF CLASS
+##END OF CLASS CALENDAR
 
 ----------------
 
-
+#SERVICES + RESOURCES
 
 ###CODE (OF CONDUCT)
 It's not that hard, code or respect. You will be expected to produce both in this class. We will set the tone for it here, so you can graple with its absence from an informed position in the workplace. 
