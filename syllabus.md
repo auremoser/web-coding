@@ -297,8 +297,12 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
-* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
 * Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).
+* Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).
+
+**Check these out**:
+* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
+* Eschbacher, A., [_Map Academy_](academy.cartodb.com).
 * [Radical Cartography](http://radicalcartography.net/).
 
 ####PRACTICE
@@ -336,6 +340,10 @@ Peruse the examples available using these libraries online, or try [Gephi](http:
 Here's [a sample visualization that uses Gexf to visualize graffiti artists](https://github.com/auremoser/graphitiNEt) and their formal art influences, color-coded by country of origin. 
 
 Try to build a prototype with one of these libraries/tools to support your assignment pitch.
+
+####READINGS
+* Tamassia, R., [Handbook of graph drawing and visualization](https://cs.brown.edu/~rt/gdhandbook/).
+* Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 
 ####ASSIGNMENT
 1. Find some network/graph data or a collection of datasets that you think might compliment eachother, or might reveal something interesting in ensemble. 
