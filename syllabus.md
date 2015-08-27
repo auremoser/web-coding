@@ -367,6 +367,11 @@ Try to build a prototype with one of these libraries/tools to support your assig
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
 
+![Whale Hunt]()
+
+**Interactive to inspire**: J. Harris, [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
+J. Harris, [_I love your work_]().
+
 ####READINGS:
 * [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
