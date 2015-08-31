@@ -129,6 +129,10 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 ####PRACTICE:
 * Setup your Github accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
+* [CLI Handbook](http://cli.learncodethehardway.org/book/)
+
+We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
+
 
 ####ASSIGNMENT
 Find an interactive that you appreciate, prefereably (but not obligatorily) a journalism piece. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
@@ -139,6 +143,10 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 ####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 
 >"I just wanted to share my view on the distinction I personally make between the two main types of visualisation function: exploratory and explanatory" ~ A. Kirk
+
+![Ramadan Tweets]()
+
+**Interactive to Inspire**: Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
 ####READING
 * Aaker, J., [_Persuasion and the Power of the Story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
