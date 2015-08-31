@@ -509,6 +509,8 @@ Continue with last week's assignment, work on publishing your project on github,
 
 Meet with your project partners to discuss how you plan to wrap-up your projects over the next week.
 
+![Commencement](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/commence.jpg)
+
 **Interactive to inspire**: 
 
 * NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
