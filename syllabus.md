@@ -117,7 +117,9 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 
 ![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
-**Interactive to Inspire**: WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
+**Interactive to Inspire**: 
+
+* WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
 ####READINGS:
 * Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
@@ -127,12 +129,11 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
 ####PRACTICE:
-* Setup your Github accounts
+* Setup your [Github](github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
-
 
 ####ASSIGNMENT
 Find an interactive that you appreciate, prefereably (but not obligatorily) a journalism piece. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
@@ -146,7 +147,9 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
-**Interactive to Inspire**: Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
+**Interactive to Inspire**: 
+
+* Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
 ####READING
 * Aaker, J., [_Persuasion and the Power of the Story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
@@ -206,8 +209,8 @@ She's worked on interactive projects like:
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 ####READINGS
-* Koc, E., [_Interactive storytelling at the New York Times_](http://futurenytimes.org/reviews/interactive-storytelling/).
 * Few, S., [_Data art vs. data visualization_](http://www.perceptualedge.com/blog/?p=1245).
+* Koc, E., [_Interactive storytelling at the New York Times_](http://futurenytimes.org/reviews/interactive-storytelling/).
 * Slobin, S., [_Examples of data journalism_](http://datajournalismhandbook.org/1.0/en/introduction_3.html).
 
 ####PRACTICE
@@ -239,7 +242,9 @@ There will  be no class on this date, but I would like you to investigate datase
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
-**Interactive to Inspire**: NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
+**Interactive to Inspire**: 
+
+* NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
 
 ####READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
@@ -248,12 +253,12 @@ There will  be no class on this date, but I would like you to investigate datase
 
 The following are mostly data resources, feel free to use them for the assignment or seek your own dataset.
 
-* Knight Center for Journalism, [_Data Visualization Resources and Ideas_](http://www.mulinblog.com/data-visualization-resources-and-ideas/).
-* Pitts, R., [_Journalists guide to datasets_](https://github.com/ryanpitts/journalists-guide-datasets).
 * GIJN, [_Tools for visualization, data analysis, mapping, statistics etcet._](http://gijn.org/resources/data-journalism/).
-* Journalism Tools, [_Data Analysis, Scraping + Resources_](https://www.pinterest.com/journalismtools/data-analysis-scraping-resources/)
+* Journalism Tools, [_Data Analysis, Scraping + Resources_](https://www.pinterest.com/journalismtools/data-analysis-scraping-resources/).
 * Journalism.org, [_Datasets_](http://www.journalism.org/datasets/pages/2/).
+* Knight Center for Journalism, [_Data Visualization Resources and Ideas_](http://www.mulinblog.com/data-visualization-resources-and-ideas/).
 * Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
+* Pitts, R., [_Journalists guide to datasets_](https://github.com/ryanpitts/journalists-guide-datasets).
 
 **OPTIONAL READINGS**
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
@@ -285,15 +290,16 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
-**Interactive to Inspire**: Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
+**Interactive to Inspire**: 
+
+* Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 
 ####READINGS:
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
-* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
+* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 
 ####PRACTICE
-
 [C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
 
 Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
@@ -312,7 +318,9 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 
 ![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 
-**Interactive to Inspire**: ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
+**Interactive to Inspire**: 
+
+* ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
@@ -320,8 +328,9 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 * Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).
 
 **Check these out**:
-* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
+
 * Eschbacher, A., [_Map Academy_](academy.cartodb.com).
+* Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
 * [Radical Cartography](http://radicalcartography.net/).
 
 ####PRACTICE
@@ -381,16 +390,18 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
-**Interactives to inspire**: 
+**Interactives to inspire**:
+
 * Harris, J., [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
 * Harris, J., [_I love your work_](http://iloveyourwork.net/).
 
 ####READINGS:
 * Huval, R., [_The Color of Disruption_](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money).
-* * Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
+* Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
 
 **OPTIONAL READINGS**:
+
 * Kowitz, B., [_Why good storytelling helps you design great projects_]https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
 
 ####ASSIGNMENT
@@ -408,10 +419,12 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 ##10/28/15
 ####CHOOSING AN INTERACTIVE
 
-![UC Campus Expenses]()
+![UC Campus Expenses](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/uc.jpg)
 
-**Interactive to Inspire**: Quigly, S., [UC Campus Expenditures Interactive Dashboard](http://saraquigley.github.io/uc-trends/).
-* Using [DC.JS](http://dc-js.github.io/dc.js/).
+**Interactive to Inspire**: 
+
+* Quigly, S., [UC Campus Expenditures Interactive Dashboard](http://saraquigley.github.io/uc-trends/).
+	* Using [DC.JS](http://dc-js.github.io/dc.js/).
 
 ####READINGS
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
@@ -432,14 +445,17 @@ Keep in mind how this changes or updates your style guide from last week; update
 
 ![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
 
-**Interactive to Inspire**: Bloomberg, [_"What's really warming the world?_](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/).
+**Interactive to Inspire**: 
+
+* Bloomberg, [_"What's really warming the world?_](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/).
 
 ####READINGS
-* Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
+
 * Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
-* Keller, M., [Comics: Terms of Service](http://projects.aljazeera.com/2014/terms-of-service/#1).
-	* [Pulp: An AJAM Project](https://github.com/ajam/pulp)
-* [Parable of the Polygons](http://ncase.me/polygons/)
+* Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
+	* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
+* Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
+* Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
 
 ####PRACTICE
 Think about where you would like to publish your project and in what format. Will it be a stand-alone site with some text, a text-dense narrative with embedded graphs, a larger scroll-pages multimedia piece with images and video embeds to compliment? 
@@ -450,6 +466,7 @@ Think about the interactives we've seen this semester and plan out your template
 Reconsider your data and the pitch exercises from previous weeks, choose the best visualization and pitch for your narrative and pursue pushing that onto the web.
 
 Here are some resources to help you get it on the web.
+
 * [Github pages templates for sites](https://pages.github.com/)
 * [Creating project pages on Github pages](https://help.github.com/articles/creating-project-pages-manually/)
 
@@ -462,15 +479,19 @@ Here is [an example of an interactive time series visualization](http://auremose
 
 ![IgNobels](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/viral.jpg)
 
-**Interactive to Inspire**: Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
+**Interactive to Inspire**: 
+
+* Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
 
 ####READINGS
-* Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
-* Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)
-* Schepers, A., [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual).
-* Reynolds, G. [_The secret of storytelling is in the editing_](http://www.presentationzen.com/presentationzen/2013/01/the-secret-to-success-is-in-the-editing.html).
 
-**OPTIONAL READINGS**
+* Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you).
+* Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
+* Reynolds, G. [_The secret of storytelling is in the editing_](http://www.presentationzen.com/presentationzen/2013/01/the-secret-to-success-is-in-the-editing.html).
+* Schepers, A., [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual).
+
+**OPTIONAL READINGS**: 
+
 * Diakopoulos, N., [_Storytelling with data: what are the impacts on audience_](http://www.nickdiakopoulos.com/2013/04/12/storytelling-with-data-what-are-the-impacts-on-the-audience/).
 * Hess, A., [_The Bro Whisperer of Bustle_](http://www.slate.com/articles/double_x/doublex/2014/08/bustle_one_year_later_bryan_goldberg_s_website_for_women_is_hugely_successful.single.html).
 * Jefferson, C., [_The Racism Beat: What it's like to write about hate over and over again_](https://medium.com/matter/the-racism-beat-6ff47f76cbb6).
@@ -487,21 +508,24 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 
 **Interactive to inspire**: 
 
-NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
+* NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
 
 ####READINGS
 * Carr, D., [_Magazine writing on the web, for film_](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
-* Tow Center, [_Anatomy of a Robot Journalist_](http://towcenter.org/the-anatomy-of-a-robot-journalist/).
-* Spann, J., [_The age of disinformation_](https://medium.com/back-of-the-napkin/the-age-of-disinformation-98d55837d7d9).
-* [_Mantra: "We'll always be a work in progress"_](http://www.vox.com/2014/3/30/5555690/welcome-to-vox).
 * Haile, T., [_What you think you know about the web is wrong_](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/).
+* Klein, E. et al., [_Mantra: "We'll always be a work in progress"_](http://www.vox.com/2014/3/30/5555690/welcome-to-vox).
+* Spann, J., [_The age of disinformation_](https://medium.com/back-of-the-napkin/the-age-of-disinformation-98d55837d7d9).
+* Tow Center, [_Anatomy of a Robot Journalist_](http://towcenter.org/the-anatomy-of-a-robot-journalist/).
 
 **OPTIONAL READINGS**
-* Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
+
 * Anderson, C., [_How to give a killer presentation_](https://hbr.org/2013/06/how-to-give-a-killer-presentation/ar/1).
+* Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
+
 
 ####ASSIGNMENT
-Continue with working on your final projects. 
+Continue with working on your final projects.
+ 
 * publishing your project and code on github
 * post the interactive demo on `gh-pages`
 * explaining your process, sources, and reasoning in your README.md with the following sections:
@@ -526,7 +550,9 @@ This will be a follow-up lab to polish your projects and get extra-help. I reali
 
 Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
 
-This is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
+More detailed instructions on this will be sent out closer to the due date.
+
+But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
 
 
 #SERVICES + RESOURCES
