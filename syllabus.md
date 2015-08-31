@@ -443,6 +443,8 @@ Keep in mind how this changes or updates your style guide from last week; update
 ##11/4/15
 ####CREATIVE NARRATIVE
 
+>"And I want you to ask yourself when you make things, when you prototype interactions, 'am I thinking about my own clock, or the user’s?' Am I going to help someone make order in his or her life, or am I going to send that person to a commune in Vermont?" ~ P. Ford
+
 ![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
 
 **Interactive to Inspire**: 
@@ -451,6 +453,7 @@ Keep in mind how this changes or updates your style guide from last week; update
 
 ####READINGS
 
+* Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
 * Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
 	* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
