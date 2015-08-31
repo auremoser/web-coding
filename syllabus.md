@@ -144,7 +144,7 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 
 >"I just wanted to share my view on the distinction I personally make between the two main types of visualisation function: exploratory and explanatory" ~ A. Kirk
 
-![Ramadan Tweets]()
+![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
 **Interactive to Inspire**: Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
