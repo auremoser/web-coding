@@ -382,13 +382,13 @@ Try to build a prototype with one of these libraries/tools to support your assig
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
 **Interactives to inspire**: 
-* J. Harris, [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
-* J. Harris, [_I love your work_](http://iloveyourwork.net/).
+* Harris, J., [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
+* Harris, J., [_I love your work_](http://iloveyourwork.net/).
 
 ####READINGS:
-* [The Color of Disruption](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money)
+* Huval, R., [_The Color of Disruption_](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money).
+* * Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).
-* Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 
 **OPTIONAL READINGS**:
 * Kowitz, B., [_Why good storytelling helps you design great projects_]https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
@@ -407,6 +407,11 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 
 ##10/28/15
 ####CHOOSING AN INTERACTIVE
+
+![UC Campus Expenses]()
+
+**Interactive to Inspire**: Quigly, S., [UC Campus Expenditures Interactive Dashboard](http://saraquigley.github.io/uc-trends/).
+* Using [DC.JS](http://dc-js.github.io/dc.js/).
 
 ####READINGS
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
