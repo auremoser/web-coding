@@ -53,8 +53,8 @@ Here is a summary list of readings that may or may not be listed directly in the
 Most of this class will focus on the fundamentals of HTML/CSS/Javascript. The coding resources are oriented to that study with a nod to data visualization as an objective. The following should help you out.
 
 * Bostock, M., [D3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials).
-* [Code Academy](https://www.codecademy.com/)
-	* [Javascript](https://www.codecademy.com/tracks/javascript-combined)
+* [Code Academy](https://www.codecademy.com/).
+	* [Javascript](https://www.codecademy.com/tracks/javascript-combined).
 * Cukier, J., [D3 and Data Visualization Blog/Tutorials](http://www.jeromecukier.net/).
 * [Dashing D3.js](https://www.dashingd3js.com/).
 * Lin, M., [Essential coding skills for journalism students](http://www.mulinblog.com/essential-coding-skills-journalism-students/).
