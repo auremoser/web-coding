@@ -88,7 +88,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 * Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated.
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
-| :---- | ------ | ----------- | -------- |
+| :---- | ------ | ----------- | -------- | ---- |
 |  2   |  09/09  | Critique an interactive  | X | |
 |  3   |  09/16  | Evaluate platforms  | X | GUESTS |
 |  4   |  09/23  | Comparing interactives  | X | NO CLASS |
