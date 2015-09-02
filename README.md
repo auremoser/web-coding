@@ -11,4 +11,4 @@ Interactives and news apps are changing the way we process media, and the expect
 
 Here is the [course listing](http://www.lang.edu/courses/coursedesc.cfm?TERM=201510&ID=7555).
 
-Here is the [homework ttemplate](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+Here is the [homework template](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).

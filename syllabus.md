@@ -65,15 +65,22 @@ Coding is an art; you will have a series of art supplies for this course that wi
 * Text Editor - [Sublime Text](http://www.sublimetext.com/)
 * A Markdown Editor - [Mou](http://25.io/mou/)
 
+**LEARN**
+
+* Setting up a Server - [Python Simple Server](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
+
 ###COURSE POLICIES
 
 **PARTNER POLICY**
+
 You will find a parter, or a triplet in this course and have some time afforded to workshop your ideas, your narratives and your code with them during peer review. They will give me feedback that contributes to your grade; so pair well with your peers.
 
 **ATTENDANCE/PARTICIPATION**
+
 Attendance accounts for 20% of your final grade. 
 
 **ASSIGNMENTS**
+
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
@@ -97,6 +104,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 
 
 **READINGS**
+
 Readings are assigned to correspond with that week's assignment and class lesson. I'll be lecturing outside the readings with some references to them, and your assignments will allude to them too. Feel free to read ahead to make certain weeks easier. 
 
 **There is no textbook for this course** as most of the resources can be found for free online.
@@ -104,6 +112,7 @@ Readings are assigned to correspond with that week's assignment and class lesson
 You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blob/master/bibliography.md) in the repository for this course.
 
 **LEARNING CENTER**
+
 The University Learning Center has [cool workshops](https://drive.google.com/file/d/0B3ZdoyWl7j9rN1ZsWFEwbUc2LVE/view) that might be of use to you. There's one on November 5th, for Oral Presentations that you might consider attending to prep your project presentation at the end of the semester (November 24th for us).
 
 #CLASS CALENDAR
@@ -520,6 +529,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
 * Reynolds, G. [_The secret of storytelling is in the editing_](http://www.presentationzen.com/presentationzen/2013/01/the-secret-to-success-is-in-the-editing.html).
 * Schepers, A., [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual).
+* [_WordSafety](http://wordsafety.com/).
 
 **OPTIONAL READINGS**: 
 
@@ -572,13 +582,16 @@ Continue with working on your final projects.
 
 ####PRESENTATIONS AND PROJECT CLINIC
 
-![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
-
 >"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
 Tues., 11/24, 6-7:50PM, Make-up for Yom Kippur Course
 
 This will be a follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. Sorry about that, the New School mandates that the make-up is on this day.
+
+![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
+
+####READING
+* Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
 
 ####FINAL PROJECTS
 **DUE**: 11/25/15 9AM, in my inbox. 
@@ -588,9 +601,6 @@ Please send the link to your project repository and any supportive materials to 
 More detailed instructions on this will be sent out closer to the due date.
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
-
-####READING
-* Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
 
 
 #SERVICES + RESOURCES
