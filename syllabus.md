@@ -84,8 +84,8 @@ Attendance accounts for 20% of your final grade.
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
-* You can view a template of what your assignment should look like here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f)
-* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated
+* You can view a template of what your assignment should look like here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated.
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE |
 | :---- | ------ | ----------- | -------- |
@@ -137,7 +137,6 @@ What is an interactive news app, and what is this course about. We'll talk about
 * Rosen, J., [_When to quit your journalism job_](http://pressthink.org/2014/12/when-to-quit-your-journalism-job/).
 * Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
 
-
 ####PRACTICE:
 * Setup your [Github](github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
@@ -149,6 +148,8 @@ We will go over this process, but you should practice some of the terminal comma
 Find an interactive that you appreciate, prefereably (but not obligatorily) a journalism piece. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
+
+Remember, you can view a template of what your assignment format here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
 ##9/9/15
 ####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
