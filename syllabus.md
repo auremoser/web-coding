@@ -47,7 +47,7 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * 20% Attendance/Participation
 * 20% Assignments
 * 20% Project Proposal
-* 40% Final Project, completed on conclusion of the course, submitted after Thanksgiving
+* 40% Final Project, completed on conclusion of the course, submitted before Thanksgiving
 
 TOTAL: 100%
 
@@ -65,7 +65,6 @@ Coding is an art; you will have a series of art supplies for this course that wi
 * Text Editor - [Sublime Text](http://www.sublimetext.com/)
 * A Markdown Editor - [Mou](http://25.io/mou/)
 
-
 ###COURSE POLICIES
 
 **PARTNER POLICY**
@@ -75,7 +74,7 @@ You will find a parter, or a triplet in this course and have some time afforded 
 Attendance accounts for 20% of your final grade. 
 
 **ASSIGNMENTS**
-Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them to a 20% contribution to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
+Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
 * Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated
@@ -545,6 +544,8 @@ Continue with working on your final projects.
 
 ####PRESENTATIONS AND PROJECT CLINIC
 
+![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
+
 >"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
 Tues., 11/24, 6-7:50PM, Make-up for Yom Kippur Course
@@ -559,6 +560,9 @@ Please send the link to your project repository and any supportive materials to 
 More detailed instructions on this will be sent out closer to the due date.
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
+
+####READING
+* Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
 
 
 #SERVICES + RESOURCES
