@@ -585,7 +585,6 @@ The university provides many resources to help students achieve academic and art
 * The University (and associated) Libraries: http://library.newschool.edu
 * The University Learning Center: http://www.newschool.edu/learning-center
 
-
 ### DISABILITY SERVIES
 In keeping with [the university’s policy]
 (http://www.newschool.edu/student-disability-services/) of providing equal access for students
