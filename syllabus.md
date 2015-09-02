@@ -298,6 +298,7 @@ Link to the datasets if they are available online, if not, explain how you inten
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
+* LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
 
 ####PRACTICE
 [C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
@@ -572,6 +573,14 @@ Here are a few general things:
 * Late assignments will not be accepted 
 * Attendance is mandatory barring an emergency which you can work out with the instructor over email. 
 * Regardless of circumstances, you're expected to turn in your assignment on the day that it's due, and otherwise keep up with work.
+
+### LEARNING SERVICES
+
+The university provides many resources to help students achieve academic and artistic excellence. These resources include:
+
+* The University (and associated) Libraries: http://library.newschool.edu
+* The University Learning Center: http://www.newschool.edu/learning-center
+
 
 ### DISABILITY SERVIES
 In keeping with [the university’s policy]
