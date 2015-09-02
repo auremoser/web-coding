@@ -87,20 +87,20 @@ Each week you will have readings assigned, accompanied by often (but not always)
 * You can view a template of what your assignment should look like here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 * Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated.
 
-| WEEK  |  DATE  | ASSIGNMENT  | PRACTICE |
+| WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- |
-|  2   |  09/09  | Critique an interactive  | X | 
-|  3   |  09/16  | Bl.ocks account and Github gists  | X|
-|  4   |  09/23  | Comparing interactives  | X |
-|  5   |  09/30  | **Prototype 1**: Time-Series/Stats  | X |
-|  6   |  10/07  | **Prototype 2**: Mapping  | X |
-|  7   |  10/14  | **Prototype 3**: Graphs  |   |
-|  8   |  10/21  | Style guide for Final Project  |  |
-|  9   |  10/28  | **Proposal** for Final Project  | X |
-| 10   |  11/04  | Refine proposal for Final Project | X |
-| 11   |  11/11  | Publish your prototypes  |  |
-| 12   |  11/18  | Peer review: groom projects with feedback |  |
-| 13   |  11/24  | **Final Presentations/Final Projects Due**  |  |
+|  2   |  09/09  | Critique an interactive  | X | |
+|  3   |  09/16  | Evaluate platforms  | X | GUESTS |
+|  4   |  09/23  | Comparing interactives  | X | NO CLASS |
+|  5   |  09/30  | Dataset study | X | |
+|  6   |  10/07  | **Prototype 1**: Time-Series/Stats  | X | |
+|  7   |  10/14  | **Prototype 2**: Mapping  | X | |
+|  8   |  10/21  | **Prototype 3**: Graphs  |  | |
+|  9   |  10/28  | Style guide for Final Project  |  | |
+| 10   |  11/04  | **Proposal** for Final Project | X | |
+| 11   |  11/11  | Template your project  |  | |
+| 12   |  11/18  | Peer review: groom projects with feedback |  | |
+| 13   |  11/24  | **Final Presentations/Final Projects Due**  |  | DEMO |
 
 
 **READINGS**
@@ -116,13 +116,13 @@ You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blo
 The University Learning Center has [cool workshops](https://drive.google.com/file/d/0B3ZdoyWl7j9rN1ZsWFEwbUc2LVE/view) that might be of use to you. There's one on November 5th, for Oral Presentations that you might consider attending to prep your project presentation at the end of the semester (November 24th for us).
 
 #CLASS CALENDAR
-This course is 12-weeks long. Dates are based on the [academic calendar](http://www.newschool.edu/registrar/academic-calendar/) for Eugene Lang.
+This course is 12 weeks long. Dates are based on the [academic calendar](http://www.newschool.edu/registrar/academic-calendar/) for Eugene Lang.
 
 ##9/2/15
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
-What is an interactive news app, and what is this course about. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
+What is an interactive news app, and what is this course about? We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
 
 ![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
