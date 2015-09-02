@@ -20,7 +20,7 @@ Here is the [course listing](http://www.lang.edu/courses/coursedesc.cfm?TERM=201
 ###INSTRUCTOR:
 	Aurelia Moser
 	@auremoser
-	aurelia@newschool.com
+	mosera@newschool.com
 	
 ###OFFICE HOURS: 
 Fridays 5-6PM, by appointment via gcal
