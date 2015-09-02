@@ -77,6 +77,7 @@ Attendance accounts for 20% of your final grade.
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
+* You can view a template of what your assignment should look like here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f)
 * Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE |
@@ -112,7 +113,7 @@ This course is 12-weeks long. Dates are based on the [academic calendar](http://
 ####INTRO TO INTERACTIVES
 >"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
 
-How can you be a journalist with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
+What is an interactive news app, and what is this course about. We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
 
 ![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
@@ -121,11 +122,12 @@ How can you be a journalist with integrity and intelligence in our contemporary 
 * WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
 ####READINGS:
-* Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
 * Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
-* Rosen, J., [_When to quit your journalism job_](http://pressthink.org/2014/12/when-to-quit-your-journalism-job/).
-* [_The hypocrisy of the Internet journalist_](https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e).
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
+* Norton, Q. [_The hypocrisy of the Internet journalist_](https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e).
+* Rosen, J., [_When to quit your journalism job_](http://pressthink.org/2014/12/when-to-quit-your-journalism-job/).
+* Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
+
 
 ####PRACTICE:
 * Setup your [Github](github.com/) accounts
@@ -142,7 +144,11 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 ##9/9/15
 ####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 
->"I just wanted to share my view on the distinction I personally make between the two main types of visualisation function: exploratory and explanatory" ~ A. Kirk
+>"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
+
+How can you be a journalist with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. 
+
+We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative.
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
@@ -155,7 +161,6 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 * Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
 * Kirk, A., [_Storytelling and Success Stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
 * Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
-
 
 ####PRACTICE
 Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay!
@@ -175,6 +180,8 @@ Consider the readings an try include a sentence or two about how they are releva
 
 ##9/16/15
 ####NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
+
+This week we'll here from some interactive developers working in newsrooms in NYC. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother.
 
 **Guest Lecturers** 
 
@@ -239,6 +246,8 @@ There will  be no class on this date, but I would like you to investigate datase
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
+What is data-driven journalism and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives.
+
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
 **Interactive to Inspire**: 
@@ -287,6 +296,9 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
+This week kicks off our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs.
+
+
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
 
 **Interactive to Inspire**: 
@@ -315,6 +327,10 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 
 ##10/7/15
 ####(COUNTER)MAPS AND CARTOGRAPHICS
+
+>"It's turtles all teh way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
+
+This week we'll explore geospatial data and mapping visualizations. We'll consider cartography as a method of storytelling on a fairly intuitive canvas, and we'll explore a few tools that help you parse geographic information.
 
 ![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 
@@ -345,7 +361,7 @@ Try to modify the code the match your own data and integrate your practice into 
 If that seems overwhelming, try to follow these tutorials instead:
 
 * **Tutorial**: [Creating your first map with CartoDB.JS](http://docs.cartodb.com/tutorials/create_map_cartodbjs.html).
-* **Map Academy**: [Online mapping for beginngers](http://academy.cartodb.com/courses/01-beginners-course.html)
+* **Map Academy**: [Online mapping for beginners](http://academy.cartodb.com/courses/01-beginners-course.html)
 * **Map Academy**: [Carto.JS](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html)
 
 ####ASSIGNMENT
@@ -361,6 +377,8 @@ Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethi
 ##10/14/15
 ####NETWORK AND GRAPH VISUALIZATIONS
 
+This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosed datasets.
+
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
 
 **Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
@@ -375,7 +393,7 @@ Here's [a sample visualization that uses Gexf to visualize graffiti artists](htt
 Try to build a prototype with one of these libraries/tools to support your assignment pitch.
 
 ####READINGS
-* Tamassia, R., [Handbook of graph drawing and visualization](https://cs.brown.edu/~rt/gdhandbook/).
+* Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 
 ####ASSIGNMENT
@@ -387,6 +405,8 @@ Try to build a prototype with one of these libraries/tools to support your assig
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
 >"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
+
+Color and mood are important to visualizations and the general legibility of your narrative. We'll discuss ways to convey or amplify your story with design, and think through some of the aesthetics of your interactives to come.
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
@@ -419,6 +439,8 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 ##10/28/15
 ####CHOOSING AN INTERACTIVE
 
+Choosing a way to display your data is a non-trivial operation, and using the past few weeks' study of a few general visualization types, we'll discuss what combination of visual data diagrams best suit the data we've groomed for our final projects. We'll also go over some of the tools for rendering those data as such.
+
 ![UC Campus Expenses](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/uc.jpg)
 
 **Interactive to Inspire**: 
@@ -444,6 +466,10 @@ Keep in mind how this changes or updates your style guide from last week; update
 ####CREATIVE NARRATIVE
 
 >"And I want you to ask yourself when you make things, when you prototype interactions, 'am I thinking about my own clock, or the user’s?' Am I going to help someone make order in his or her life, or am I going to send that person to a commune in Vermont?" ~ P. Ford
+
+This week we'll talk about creative approaches to building narrative and new methods for publishing interactive material. We will likewise learn more about hosting our projects on github or otherwise.
+
+>"Every dance is a kind of fever chart, a graph of the heart." ~ M. Graham
 
 ![Warming](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/warm.gif)
 
@@ -479,6 +505,8 @@ Here is [an example of an interactive time series visualization](http://auremose
 ####UNDERSTANDING IMPACT + ADDRESSING BIAS
 
 >"I realize there’s a whole lot of inspiration out there, and some damn fine examples of great work, but I still find it hard to get a sense of direction...We need to know what makes a data story “work”. And what does a data story that “works” even mean?" ~ N. Diakopoulos
+
+This week we'll go over how to process reactions to your work, and how to bulletproof your story accordingly, pre-publication.
 
 ![IgNobels](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/viral.jpg)
 
