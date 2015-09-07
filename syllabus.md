@@ -179,6 +179,9 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
 
+Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
+
+
 ####ASSIGNMENT
 Take a look at the following platforms for online journalism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing if you find none of these satisfactory, and explain why it seems superior.
 
