@@ -495,6 +495,7 @@ This week we'll talk about creative approaches to building narrative and new met
 
 * Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
+* Bajak, A., [_How to learn responsive web design by coding your own news article_](http://www.storybench.org/code-simple-responsive-webpage-standalone-article/).
 * Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
 	* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
 * Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
