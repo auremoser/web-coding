@@ -167,9 +167,9 @@ We'll talk about ways you can publish your work, and practice a few different me
 * Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
 ####READING
-* Aaker, J., [_Persuasion and the Power of the Story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
+* Aaker, J., [_Persuasion and the power of the story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
 * Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
-* Kirk, A., [_Storytelling and Success Stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
+* Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
 * Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
 
 ####PRACTICE
@@ -190,6 +190,8 @@ Take a look at the following platforms for online journalism, consider the merit
 * [Bellingcat](https://www.bellingcat.com/)
 
 Consider the readings an try include a sentence or two about how they are relevant to this exercise.
+
+Link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
 ##9/16/15
 ####NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
