@@ -243,6 +243,12 @@ Continue to practice your fluency in Github commands with this online interactiv
 
 Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics).
 
+Here are some other resources for Github learning:
+
+* [Gitualize](http://gitualize.com/) - visualize github commit activity
+* [Is it maintained](http://isitmaintained.com/) - check the github status of a repository
+* [Girl](http://bamos.github.io/girl/) - check the github readme link status to make sure your README.md is solid and without broken links
+
 
 ####ASSIGNMENT
 Think about who handled it (that is, the topic) better:
