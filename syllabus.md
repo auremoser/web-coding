@@ -173,12 +173,13 @@ We'll talk about ways you can publish your work, and practice a few different me
 * Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
 
 ####PRACTICE
-Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay!
+Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
 
 This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
 * Basics of HTML/CSS, [Practice Site](http://webdive.ktam.org/web/basics)
+
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
 
