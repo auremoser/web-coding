@@ -178,6 +178,7 @@ Try to setup up a bl.ocks account based on your gists (the first few assignments
 This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
+* Basics of HTML/CSS, [Practice Site](http://webdive.ktam.org/web/basics)
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
 
@@ -239,6 +240,9 @@ Continue to practice your fluency in Github commands with this online interactiv
 
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
 * [Visual Guide to Git Branching](http://pcottle.github.io/learnGitBranching/).
+
+Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics).
+
 
 ####ASSIGNMENT
 Think about who handled it (that is, the topic) better:
