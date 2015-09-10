@@ -359,7 +359,7 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 ##10/7/15
 ####(COUNTER)MAPS AND CARTOGRAPHICS
 
->"It's turtles all teh way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
+>"It's turtles all the way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
 
 This week we'll explore geospatial data and mapping visualizations. We'll consider cartography as a method of storytelling on a fairly intuitive canvas, and we'll explore a few tools that help you parse geographic information.
 
