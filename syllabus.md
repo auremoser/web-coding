@@ -168,9 +168,14 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 ####READING
 * Aaker, J., [_Persuasion and the power of the story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
+* Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
+* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
+
+**OPTIONAL READINGS**:
+
 * Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
 * Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
-* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
+
 
 ####PRACTICE
 Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
