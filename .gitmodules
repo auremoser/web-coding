@@ -4,3 +4,6 @@
 [submodule "_slides/web-intro-2"]
 	path = _slides/web-intro-2
 	url = git@github.com:auremoser/web-intro-2.git
+[submodule "_slides/git-intro"]
+	path = _slides/git-intro
+	url = git@github.com:auremoser/git-intro.git
