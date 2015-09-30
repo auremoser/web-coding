@@ -1,0 +1,12 @@
+[submodule "_slides/web-intro"]
+	path = _slides/web-intro
+	url = git@github.com:auremoser/web-intro.git
+[submodule "_slides/web-intro-2"]
+	path = _slides/web-intro-2
+	url = git@github.com:auremoser/web-intro-2.git
+[submodule "_slides/git-intro"]
+	path = _slides/git-intro
+	url = git@github.com:auremoser/git-intro.git
+[submodule "_slides/45b5a315125dd32af75e"]
+	path = _slides/45b5a315125dd32af75e
+	url = git@gist.github.com:45b5a315125dd32af75e.git
