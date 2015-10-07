@@ -8,5 +8,8 @@
 	path = _slides/git-intro
 	url = git@github.com:auremoser/git-intro.git
 [submodule "_slides/45b5a315125dd32af75e"]
-	path = _slides/timeseries
+	path = _slides/45b5a315125dd32af75e
 	url = git@gist.github.com:45b5a315125dd32af75e.git
+[submodule "_slides/web-js"]
+	path = _slides/web-js
+	url = git@github.com:auremoser/web-js.git
