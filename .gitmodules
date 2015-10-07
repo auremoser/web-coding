@@ -13,3 +13,6 @@
 [submodule "_slides/web-js"]
 	path = _slides/web-js
 	url = git@github.com:auremoser/web-js.git
+[submodule "_slides/25a1f08c46c84a3bc9e4"]
+	path = _slides/25a1f08c46c84a3bc9e4
+	url = git@gist.github.com:25a1f08c46c84a3bc9e4.git
