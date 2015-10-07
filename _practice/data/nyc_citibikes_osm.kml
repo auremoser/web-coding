@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bk_nyc_public_bikes_osm" id="bk_nyc_public_bikes_osm">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="capacity" type="string"></SimpleField>
+	<SimpleField name="network" type="string"></SimpleField>
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="wikipedia" type="string"></SimpleField>
+	<SimpleField name="addr_city" type="string"></SimpleField>
+	<SimpleField name="addr_housenumber" type="string"></SimpleField>
+	<SimpleField name="addr_postcode" type="string"></SimpleField>
+	<SimpleField name="addr_street" type="string"></SimpleField>
+	<SimpleField name="building" type="string"></SimpleField>
+	<SimpleField name="height" type="string"></SimpleField>
+	<SimpleField name="nycdoitt_bin" type="string"></SimpleField>
+	<SimpleField name="phone" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="citibikenyc_sid" type="string"></SimpleField>
+	<SimpleField name="operator" type="string"></SimpleField>
+	<SimpleField name="covered" type="string"></SimpleField>
+	<SimpleField name="payment_credit_cards" type="string"></SimpleField>
+	<SimpleField name="cyclestreets_id" type="string"></SimpleField>
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="created_at" type="string"></SimpleField>
+	<SimpleField name="updated_at" type="string"></SimpleField>
+</Schema>
+<Folder><name>bk_nyc_public_bikes_osm</name>
+  <Placemark>
+	<name>Citi Bike Station</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">way/225016979</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">29</SimpleData>
+		<SimpleData name="network">Citi Bike</SimpleData>
+		<SimpleData name="website">http://citibikenyc.com</SimpleData>
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.0029163,40.733914 -74.0028914,40.7339175 -74.0029257,40.7340564 -74.0029506,40.7340528 -74.0029163,40.733914</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">way/264852388</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">15</SimpleData>
+		<SimpleData name="website">http://citibikenyc.com/stations</SimpleData>
+		<SimpleData name="wikipedia">en:Citi Bike</SimpleData>
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.002954299999985,40.7271707 -74.0030576,40.7270468 -74.0030417,40.727039 -74.0029384,40.7271638 -74.002954299999985,40.7271707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Brooklyn Bridge Sightseeing</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">way/278084743</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="website">http://www.brooklynbridgesightseeing.com/</SimpleData>
+		<SimpleData name="addr_city">New York</SimpleData>
+		<SimpleData name="addr_housenumber">110</SimpleData>
+		<SimpleData name="addr_postcode">10038</SimpleData>
+		<SimpleData name="addr_street">South Street</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+		<SimpleData name="height">8.3</SimpleData>
+		<SimpleData name="nycdoitt_bin">1001327</SimpleData>
+		<SimpleData name="phone">(212) 465-0880</SimpleData>
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.0018724,40.7070737 -74.0020229,40.7072563 -74.0020262,40.7072603 -74.0020782,40.7072337 -74.0019227,40.707045 -74.0018724,40.7070737</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/1740891629</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9682854,40.7756818</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Gray's Bicycles &amp; Accessories</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2274511924</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.8319342,40.706777</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2326005059</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="source">local_knowledge</SimpleData>
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9894049,40.7408049</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - E 10 St &amp; Avenue A</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2337585114</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">36</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="citibikenyc_sid">445</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">7</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9814201,40.7274079</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - St Marks Pl &amp; 1 Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2337590687</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">27</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="citibikenyc_sid">438</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">8</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.985523,40.727733</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - St Marks Pl &amp; 2 Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2337592182</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">39</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="citibikenyc_sid">236</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">9</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.987443,40.728541</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - E 7 St &amp; Avenue A</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2337592483</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">31</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="citibikenyc_sid">432</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">10</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.983761,40.72618</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2342949842</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="network">citibike</SimpleData>
+		<SimpleData name="operator">NYC Bike Share</SimpleData>
+		<SimpleData name="cartodb_id">11</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.0000458,40.6916808</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - Allen St &amp; Rivington St</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2352403292</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">38</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="website">http://citibikenyc.com</SimpleData>
+		<SimpleData name="citibikenyc_sid">401</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">12</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9899628,40.7202191</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi Bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2453049340</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">13</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9899276,40.7142771</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike - Macon St &amp; Nostrand Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2457208934</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">27</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="website">http://citibikenyc.com/</SimpleData>
+		<SimpleData name="citibikenyc_sid">437</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">14</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9500479,40.6809834</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citibike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2565530044</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">15</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9673113,40.7610011</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2583190801</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="cartodb_id">16</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9904579,40.7714222</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2596227494</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="network">Citi Bike</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">17</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9897078,40.692916</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi Bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2611782752</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">18</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9802694,40.7606028</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>CitiBike - Broadway &amp; W 55 St</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2622671494</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">58</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="source">local knowledge</SimpleData>
+		<SimpleData name="citibikenyc_sid">468</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">19</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9820901,40.7650488</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi Bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2629371816</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">20</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9706852,40.7582963</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi Bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/2629371817</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="operator">NYC Bike Share LLC</SimpleData>
+		<SimpleData name="cartodb_id">21</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9595401,40.7586602</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3146176330</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="covered">no</SimpleData>
+		<SimpleData name="cartodb_id">22</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.988742,40.768337</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3146331733</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">23</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.002927,40.760927</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3146474830</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">24</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.004404,40.742099</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3146484929</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">25</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.008131,40.739215</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3146505129</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">26</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.005437,40.740707</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>citi bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3148171629</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">27</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.996759,40.763438</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>CitiBike Central Park S &amp; 6 Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3302657576</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">48</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="operator">NYC Bike Share</SimpleData>
+		<SimpleData name="payment_credit_cards">yes</SimpleData>
+		<SimpleData name="cartodb_id">28</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9764606,40.76598</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>CitiBike W 59 St &amp; Ave 10</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3303088902</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">55</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="website">http://www.citibikenyc.com/</SimpleData>
+		<SimpleData name="operator">NYC Bike Share</SimpleData>
+		<SimpleData name="payment_credit_cards">yes</SimpleData>
+		<SimpleData name="cartodb_id">29</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9885758,40.7699369</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>CitiBike Broadway &amp; 60 St</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3303088903</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="capacity">36</SimpleData>
+		<SimpleData name="network">CitiBike</SimpleData>
+		<SimpleData name="website">http://www.citibikenyc.com/</SimpleData>
+		<SimpleData name="operator">NYC Bike Share</SimpleData>
+		<SimpleData name="payment_credit_cards">yes</SimpleData>
+		<SimpleData name="cartodb_id">30</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.9818193,40.7692188</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bicycle Rental</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3345158286</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">31</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.0193127,40.6916195</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3425252474</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cyclestreets_id">65043</SimpleData>
+		<SimpleData name="cartodb_id">32</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.0019153,40.7505435</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Citi Bike</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3450783059</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="operator">NYC Bike Share</SimpleData>
+		<SimpleData name="cartodb_id">33</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.993795599999984,40.7564583</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Blazing Saddles</name>
+	<ExtendedData><SchemaData schemaUrl="#bk_nyc_public_bikes_osm">
+		<SimpleData name="id">node/3453104461</SimpleData>
+		<SimpleData name="amenity">bicycle_rental</SimpleData>
+		<SimpleData name="cartodb_id">34</SimpleData>
+		<SimpleData name="created_at">2015/04/21 18:02:57.029+00</SimpleData>
+		<SimpleData name="updated_at">2015/04/21 18:02:57.029+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.0034045,40.7062233</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
