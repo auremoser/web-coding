@@ -7,7 +7,7 @@
 [submodule "_slides/git-intro"]
 	path = _slides/git-intro
 	url = git@github.com:auremoser/git-intro.git
-[submodule "_slides/timeseries"]
+[submodule "_slides/45b5a315125dd32af75e"]
 	path = _slides/45b5a315125dd32af75e
 	url = git@gist.github.com:45b5a315125dd32af75e.git
 [submodule "_slides/web-js"]
