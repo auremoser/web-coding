@@ -403,13 +403,13 @@ If that seems overwhelming, try to follow these tutorials instead:
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 5. Use your practice exercise to defend your pitch with a prototype.
 
-Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write you r pitch
+Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write your pitch.
 
 
 ##10/14/15
 ####NETWORK AND GRAPH VISUALIZATIONS
 
-This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosed datasets.
+This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets.
 
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
 
@@ -432,7 +432,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 1. Find some network/graph data or a collection of datasets that you think might compliment eachother, or might reveal something interesting in ensemble. 
 2. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 3. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
-4. Use your practice exercise to defend your pitch with a prototype.
+4. Use your practice exercise to defend your pitch with a prototype, or at least choose one dataset, one library and try to describe how in specific you think they partner appropriately.
 
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
