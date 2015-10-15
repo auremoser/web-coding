@@ -434,6 +434,8 @@ Try to build a prototype with one of these libraries/tools to support your assig
 3. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 4. Use your practice exercise to defend your pitch with a prototype, or at least choose one dataset, one library and try to describe how in specific you think they partner appropriately.
 
+Alternatively, for your assignment, you can try to make a Graph Visualization with sample data (say from Sigma.js's examples page, or from another graph example/library), or follow the [following tutorial](http://thinkingonthinking.com/Getting-Started-With-D3/), take notes on your experience and screenshots of your work along the way.
+
 ##10/21/15
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
 >"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
