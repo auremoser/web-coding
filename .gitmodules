@@ -19,3 +19,6 @@
 [submodule "_slides/affa7b18003841800148"]
 	path = _slides/graphs
 	url = git@gist.github.com:affa7b18003841800148.git
+[submodule "_slides/4479f13e7bdde9058a30"]
+	path = _slides/color
+	url = git@gist.github.com:4479f13e7bdde9058a30.git
