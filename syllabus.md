@@ -599,10 +599,10 @@ Continue with working on your final projects.
 * post the interactive demo on `gh-pages`
 * explaining your process, sources, and reasoning in your README.md with the following sections:
 
-	Project Title
-	Desciption
-	Demo Link
-	Project Procedure: describe your data processing, visualization selection, and analysis post-visualization
+	* **Project Title**
+	* **Desciption**
+	* **Demo Link**
+	* **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
 	
 ##11/24/15
 
@@ -624,7 +624,9 @@ This will be a follow-up lab to polish your projects and get extra-help. I reali
 
 Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
 
-More detailed instructions on this will be sent out closer to the due date.
+Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
+
+We will spend the first minutes of class going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3-5 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward.
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
 
