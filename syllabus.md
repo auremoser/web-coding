@@ -141,6 +141,8 @@ What is an interactive news app, and what is this course about? We'll talk about
 * Setup your [Github](github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
+* [Terminal for Windows](https://conemu.github.io/)
+* [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
