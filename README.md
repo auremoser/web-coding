@@ -12,3 +12,10 @@ Interactives and news apps are changing the way we process media, and the expect
 Here is the [course listing](http://www.lang.edu/courses/coursedesc.cfm?TERM=201510&ID=7555).
 Here is the [homework template](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
+###TO CLONE
+
+Run this to pull all submodules in the `_slides/` folder:
+
+```
+git clone git@github.com:auremoser/web-coding.git --recursive
+```
