@@ -300,6 +300,7 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Knight Center for Journalism, [_Data Visualization Resources and Ideas_](http://www.mulinblog.com/data-visualization-resources-and-ideas/).
 * Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
 * Pitts, R., [_Journalists guide to datasets_](https://github.com/ryanpitts/journalists-guide-datasets).
+* [Aweseom list of open access datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 **OPTIONAL READINGS**
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).

@@ -10,6 +10,7 @@ Here is a summary list of readings that may or may not be listed directly in the
 * Looney, M., [_Global data journalism resources by country_](http://ijnet.org/blog/global-data-journalism-resources)
 * Misra, R., [_30 places to find open data on the web_](http://blog.visual.ly/data-sources/).
 * Mulin, [_Guide to Internet Search_](http://www.mulinblog.com/guide-to-internet-search/).
+* [Guide to awesome/vailable datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## DESIGN
 * Brewer, C. et al, Color palettes: [Color Brewer](http://colorbrewer2.org/), [Color Hexa](http://www.colorhexa.com/), [Geocolor](http://geocolor.io/).
